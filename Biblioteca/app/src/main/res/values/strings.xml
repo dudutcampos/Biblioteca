@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+
+    <string name="usuario_login_titulo">Login</string>
+    <string name="btn_login">Entrar</string>
+
+    <string name="usuario_cadastro_titulo">Cadastro</string>
+    <string name="hint_matricula">Numero de Matricula</string>
+    <string name="hint_cpf">CPF</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_telefone">Telefone</string>
+    <string name="hint_senha">Senha</string>
+    <string name="hint_senha2">Confirmar Senha</string>
+    <string name="btn_cadastro">Cadastrar</string>
+    <string name="btn_consulta">Ver livros</string>
+    <string name="btn_usuario">Usuario</string>
+
+    <string name="btn_livros_reservados">Meus Livros</string>
+    <string name="btn_reserva">Reservar</string>
+    <string name="btn_devolver">Devolver</string>
+    <string name="btn_renovar">Renovar</string>
+    <string name="btn_sair">Sair</string>
+</resources>
